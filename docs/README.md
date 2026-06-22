@@ -13,7 +13,7 @@ O projeto é inspirado no **Reddit**, uma rede social baseada em fóruns onde os
 <font size="3"><p style="text-align: center">Imagem 1: Screenshot Reddit</p></font>
 
 <p align="center">
-  <img src="./assets/imagens/Reddit_screenshot.png" alt="redditscreenshot" width="600">
+  <img src="./assets/Reddit_screenshot.png" alt="redditscreenshot" width="600">
 </p>
 
 
@@ -46,9 +46,20 @@ A base conceitual do projeto foi construída utilizando metodologias de **Design
 
 - [Repositório da Entrega 01 - Requisitos e Planejamento](https://unbarqdsw2026-1-turma01.github.io/2026.1-T01-_G3_TenhoUmaDica_Entrega_01/#/)
 
-## Screenshots da Terceira Entrega
+## Screenshots da Quarta Entrega
 
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+<font size="3"><p style="text-align: center">Imagem 2: Representação Arquitetural do Sistema</p></font>
+
+<p align="center">
+  <img src="./assets/Representação_Arquitetural_Sistema.jpg" alt="Diagrama de Visões Arquiteturais" width="800">
+</p>
+
+
+<font size="3"><p style="text-align: center">Imagem 3: Diagrama de Classes (Visão Lógica)</p></font>
+
+<p align="center">
+  <img src="./assets/visao_logica_classes.png" alt="Diagrama de Classes (Visão Lógica)" width="800">
+</p>
 
 ## Há algo a ser executado?
 
@@ -65,3 +76,4 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 | Versão | Descrição              | Autor(es)      |    Data    |
 | :----: | :--------------------- | :------------- | :--------: |
+| 1.0    | Correção do caminho da imagem do Reddit | João Ramos | 21/06/2026 |
